@@ -1,0 +1,6 @@
+github.com/extism/go-pdk v1.0.2 h1:UB7oTW3tw2zoMlsUdBEDAAbhQg9OudzgNeyCwQYZ730=
+github.com/extism/go-pdk v1.0.2/go.mod h1:Gz+LIU/YCKnKXhgge8yo5Yu1F/lbv7KtKFkiCSzW/P4=
+github.com/runreveal/pql v0.1.0 h1:PpV0Ii88Z2HUZQ3CvNOqVMXA/DY3keCmyEqF6lWe+F8=
+github.com/runreveal/pql v0.1.0/go.mod h1:/Guq0mnBVt+dS3A0yIK3+f8sKcubq5ahrG/5kAJnY6E=
+golang.org/x/exp v0.0.0-20240213143201-ec583247a57a h1:HinSgX1tJRX3KsL//Gxynpw5CTOAIPhgL4W8PNiIpVE=
+golang.org/x/exp v0.0.0-20240213143201-ec583247a57a/go.mod h1:CxmFvTBINI24O/j8iY7H1xHzx2i4OsyguNBmN/uPtqc=
